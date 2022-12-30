@@ -1,9 +1,24 @@
-- 👋 Hi, I’m Naveen -  Front end developer
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning DSA 
-- 📫 How to reach me naveensomanna26@gmail.com
+<div align=center>
+</div>
 
-<!---
-naveensomanna/naveensomanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<table><tr><td valign="top" width="75%">
+
+## 👋 Hi, I Am Naveen
+
+- I am a Computer Scientist interested in Javascript and React.
+ 
+</td><td valign="top" width="25%">
+
+## 🖥️ Fav Tech Stack
+
+- JavaScript
+- React
+- Next.js
+ 
+</tr></tr></table> 
+
+
+ <br> 
+
+</td></tr></table>
